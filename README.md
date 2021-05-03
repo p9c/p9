@@ -110,8 +110,26 @@ podbuild install
 And now, `pod` will get you started and show you the wallet creation screen, 
 unless you already did that.
 
+If you are building for a headless, server version, such as a chain/wallet 
+for supporting applications using blockchain/wallet data, use the tag 
+`headless` to leave out the GUI component.
+
 ### Other platforms
 
 The instructions above basically are the same, except for the differences in 
-how to set up environment variables, on Mac, Windows, and FreeBSD. To build 
-the android version, you can use the gogio fork found at `pkg/gel/gio/gogio`
+how to set up environment variables, on Mac, Windows, and FreeBSD. 
+
+To build the android version, you can use the gogio fork found at 
+`pkg/gel/gio/gogio`. The same tooling should allow also building for iOS 
+devices. 
+
+There is a `appstore` build tag that removes the miner code from 
+the output binaries, as the duopoly of app curation have agreed in concert 
+to ban any mining application, without any exceptions, such as, for example, 
+the fact that 'cpu mining' is one of the 4 primary functions this 
+application performs, and it is not deceptive in this respect. 
+
+With the shortage of CPUs, we anticipate that some people will want to 
+install the packages anyway, these non-`appstore` build tag versions will be 
+made available in binary releases alongside the rest of the versions, including 
+`headless` for fast deployment.
