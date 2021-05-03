@@ -35,9 +35,8 @@ two, squares each half, and then multiplies the halves, and finally divides
 by a jumbled version of the starting bytes. This is then repeated 3 times 
 until a number is produced of the order of 20-40kb in size. It is possible 
 to make this work target even harder, but beyond 3 cycles it starts to 
-demand so much memory transfer that it doesn't seem to function properly 
-(possibly a limitation in Go's big integer library) - and 4 cycles produces 
-nearly half a megabyte of data at the end. 
+demand so much memory transfer that runs lower than one hash per second 
+and 5 cycles produces nearly half a megabyte of data at the end. 
 
 The result of the calculation is then hashed using the fast Blake3 hash 
 function, to yield the result. Since there is no realistic way in which with 

@@ -8,7 +8,6 @@
 ###### [parallelcoin.info](https://parallelcoin.info)
 
 wiki: [![](https://raw.githubusercontent.com/p9c/p9/main/docs/wiki.svg)](https://github.com/p9c/p9/wiki) 
-
 social: [![](https://raw.githubusercontent.com/p9c/p9/main/docs/telegram.svg)](https://t.me/ParallelCoinPlan9) 
 [![](https://raw.githubusercontent.com/p9c/p9/main/docs/discord.svg)](https://discord.gg/yB9sYmm3cZ) 
 [![](https://raw.githubusercontent.com/p9c/p9/main/docs/fb.svg)](https://www.facebook.com/parallelcoin)
@@ -18,6 +17,9 @@ social: [![](https://raw.githubusercontent.com/p9c/p9/main/docs/telegram.svg)](h
 ## Coming Soon!
 
 [![](https://raw.githubusercontent.com/p9c/p9/main/docs/socialpreview.jpg)](https://raw.githubusercontent.com/p9c/p9/main/docs/whitepaper/whitepaper.md)
+
+click the image above  for the **ParallelCoin** *Plan 9 from Crypto Space* 
+Whitepaper
 
 ---
 
