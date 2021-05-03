@@ -45,12 +45,3 @@ social: [![](https://raw.githubusercontent.com/p9c/p9/main/docs/telegram.svg)](h
 [![Windows GUI Binary](https://raw.githubusercontent.com/thecreation/brand-icons/master/src/svg/windows.svg)](https://download.parallelcoin.io/Parallelcoin-qt-v1.2.0.0-Win.zip)
 [![Linux GUI](https://raw.githubusercontent.com/thecreation/brand-icons/master/src/svg/linux.svg)](https://github.com/p9c/p9/releases/download/v1.2.0/parallelcoin-qt-x86_64.AppImage)
 [![Linux CLI](https://raw.githubusercontent.com/cmedinam/scripts/033106979fc7e58a6d363efe52236ef07a55de08/linux/custom/focal-fossa/usr/share/icons/HighContrast/scalable/places/network-server.svg)](https://github.com/p9c/p9/releases/download/1.2.0/parallelcoind-x86_64.AppImage)
-
----
-
-wiki: [![](https://raw.githubusercontent.com/p9c/p9/main/docs/wiki.svg)](https://github.com/p9c/p9/wiki)
-
-social: [![](https://raw.githubusercontent.com/p9c/p9/main/docs/telegram.svg)](https://t.me/ParallelCoinPlan9)
-[![](https://raw.githubusercontent.com/p9c/p9/main/docs/discord.svg)](https://discord.gg/yB9sYmm3cZ)
-[![](https://raw.githubusercontent.com/p9c/p9/main/docs/fb.svg)](https://www.facebook.com/parallelcoin)
-[![](https://raw.githubusercontent.com/p9c/p9/main/docs/twitter.svg)](https://twitter.com/parallelcoinduo)
