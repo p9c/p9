@@ -1,11 +1,14 @@
-[![](https://raw.githubusercontent.com/p9c/pod/master/pkg/gui/logo/logo_small.svg)](https://p9c.github.io/pod/) 
+[![](https://raw.githubusercontent.com/p9c/p9/main/pkg/logo/logo_nocircle128x128.svg)](https://p9c.github.io/pod/) 
+
 # ParallelCoin pod
 
-### all-in-one-everything for parallelcoin
+### All-in-One-Everything for parallelcoin
 
 ###### ParallelCoin's Omnibus Depositorie
 
 ###### [parallelcoin.info](https://parallelcoin.info)
+
+![](https://raw.githubusercontent.com/p9c/p9/main/docs/GitHub-Mark-32px.png) [github.com/p9c/p9](https://github.com/p9c/p9)
 
 wiki: [![](https://raw.githubusercontent.com/p9c/p9/main/docs/wiki.svg)](https://github.com/p9c/p9/wiki) 
 social: [![](https://raw.githubusercontent.com/p9c/p9/main/docs/telegram.svg)](https://t.me/ParallelCoinPlan9) 
@@ -46,7 +49,7 @@ Whitepaper
 
 ### Get Parallelcoin Legacy
 
-[![github](https://raw.githubusercontent.com/thecreation/brand-icons/master/src/svg/github.svg)](https://github.com/p9c/p9/tree/master/legacy)
-[![Windows GUI Binary](https://raw.githubusercontent.com/thecreation/brand-icons/master/src/svg/windows.svg)](https://download.parallelcoin.io/Parallelcoin-qt-v1.2.0.0-Win.zip)
-[![Linux GUI](https://raw.githubusercontent.com/thecreation/brand-icons/master/src/svg/linux.svg)](https://github.com/p9c/p9/releases/download/v1.2.0/parallelcoin-qt-x86_64.AppImage)
-[![Linux CLI](https://raw.githubusercontent.com/cmedinam/scripts/033106979fc7e58a6d363efe52236ef07a55de08/linux/custom/focal-fossa/usr/share/icons/HighContrast/scalable/places/network-server.svg)](https://github.com/p9c/p9/releases/download/1.2.0/parallelcoind-x86_64.AppImage)
+[![github](https://raw.githubusercontent.com/thecreation/brand-icons/master/src/svg/github.svg)](https://github.com/p9c/pod-archive/tree/master/legacy)
+[![Windows GUI Binary](https://raw.githubusercontent.com/thecreation/brand-icons/master/src/svg/windows.svg)](https://github.com/p9c/pod-archive/releases/download/1.2.0/Parallelcoin-qt-v1.2.0.0-Win.zip)
+[![Linux GUI](https://raw.githubusercontent.com/thecreation/brand-icons/master/src/svg/linux.svg)](https://github.com/p9c/pod-archive/releases/download/v1.2.0/parallelcoin-qt-x86_64.AppImage)
+[![Linux CLI](https://raw.githubusercontent.com/cmedinam/scripts/033106979fc7e58a6d363efe52236ef07a55de08/linux/custom/focal-fossa/usr/share/icons/HighContrast/scalable/places/network-server.svg)](https://github.com/p9c/pod-archive/releases/download/1.2.0/parallelcoind-x86_64.AppImage)
